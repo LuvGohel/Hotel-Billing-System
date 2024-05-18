@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HotelBillSystem
+</name>
+</assembly>
+<members>
+<member name="P:HotelBillSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HotelBillSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HotelBillSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:HotelBillSystem.HotelEntities.#ctor">
+	<summary>
+ Initializes a new HotelEntities object using the connection string found in the 'HotelEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:HotelBillSystem.HotelEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new HotelEntities object.
+ </summary>
+</member><member name="M:HotelBillSystem.HotelEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new HotelEntities object.
+ </summary>
+</member><member name="T:HotelBillSystem.HotelEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member>
+</members>
+</doc>
